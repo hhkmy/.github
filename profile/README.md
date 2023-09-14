@@ -106,4 +106,4 @@ hugo server
 
 ### License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B39619%2Fgithub.com%2Fksvblog%2Fksvblog.github.io.svg?type=large&issueType=license)](https://app.fossa.com/projects/custom%2B39619%2Fgithub.com%2Fksvblog%2Fksvblog.github.io?ref=badge_large&issueType=license)
