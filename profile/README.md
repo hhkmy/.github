@@ -60,6 +60,11 @@ Hello and welcome to my personal website! I'm thrilled to have you here and shar
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office 365 with Developer Account](https://ksvblog.site/posts/office365-with-developer-account/)
+- [Domain &lpar;DNS&rpar; Journey](https://ksvblog.site/posts/domain-dns-journey/)
+- [Download m3u8 with ffmpeg](https://ksvblog.site/posts/download-m3u8-ffmpeg/)
+- [KaTeX - Math](https://ksvblog.site/posts/katex-math/)
+- [Chemical](https://ksvblog.site/posts/chemical/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
