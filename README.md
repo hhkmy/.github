@@ -58,31 +58,9 @@
 
 Hello and welcome to my personal website! I'm thrilled to have you here and share a glimpse into my world. I believe that life is a journey of constant exploration and learning, and this website is a reflection of that philosophy.
 
-### About Me
-
-I'm Hein Htet Kyaw, a Contents Writer based in Yangon, Myanmar. With a deep passion for Technology, I've embarked on a journey to 1. I believe in the power of **Focus**, and I'm dedicated to making a positive impact in both my personal and professional spheres.
-
-### Blog
-
-Curiosity drives me, and the blog is where I delve deeper into my thoughts and insights. I explore topics like [Content](https://ksvblog.site/posts/) offering a unique perspective on [Personal Website is Up](https://ksvblog.github.io/post/2023/removing-desktop-shortcut-arrow/). Whether you're seeking knowledge, inspiration, or just a good read, I invite you to join the conversation and explore these articles.
-
-### Latest Blog posts
+## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Office 365 with Developer Account](https://ksvblog.site/posts/office365-with-developer-account/)
-- [Domain &lpar;DNS&rpar; Journey](https://ksvblog.site/posts/domain-dns-journey/)
-- [Download m3u8 with ffmpeg](https://ksvblog.site/posts/download-m3u8-ffmpeg/)
-- [KaTeX - Math](https://ksvblog.site/posts/katex-math/)
-- [Chemical](https://ksvblog.site/posts/chemical/)
 <!-- BLOG-POST-LIST:END -->
-
-### Connect
-
-I believe in the power of collaboration and connection. Let's embark on this journey together! Feel free to reach out to me via [@HeinHtetKyaw](//t.me/HeinHtetKyaw) Whether you want to discuss a potential project, share your thoughts, or just say hello, I'm all ears.
-
-Thank you for visiting my digital haven. As I continue to evolve and explore, this website will be a living chronicle of my experiences. Stay curious, stay inspired, and let's create something extraordinary together.
-
-Warmly,
-[Hein Htet Kyaw](https://github.com/h2kyaw)
 
 ## Requirement
 
