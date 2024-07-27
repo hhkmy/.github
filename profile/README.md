@@ -1,5 +1,5 @@
 <a href="https://ksvblog.site">
-    <img src="https://h2kyaw.github.io/images/icon.svg" alt="K's V/Blog" title="K's V/Blog" align="right" height="50" />
+    <img src="https://hhk.my.id/images/icon.svg" alt="K's V/Blog" title="K's V/Blog" align="right" height="50" />
 </a>
 
 # K's V/Blog [![Netlify Status](https://api.netlify.com/api/v1/badges/9bebb371-d351-437c-ab5b-c64a3ef6b71c/deploy-status)](https://app.netlify.com/sites/ksvblog/deploys)
@@ -21,8 +21,8 @@
 ![GitHub](https://img.shields.io/github/license/ksvblog/ksvblog.github.io)
 ![Netlify](https://img.shields.io/netlify/9bebb371-d351-437c-ab5b-c64a3ef6b71c)
 [![Website](https://img.shields.io/website?up_message=online&up_color=blue&down_message=offline&down_color=lightgrey&url=https%3A%2F%2Fksvblog.site)](https://ksvblog.site)
-[![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fh2kyaw%2Fstats%2Fmaster%2Fapi%2Fk-s-v-blog%2Fuptime.json)](https://stats.ksvblog.site)
-[![ResponseTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fh2kyaw%2Fstats%2Fmaster%2Fapi%2Fk-s-v-blog%2Fresponse-time.json)](https://stats.ksvblog.site)
+[![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fksvblog%2Fstats%2Fmaster%2Fapi%2Fk-s-v-blog%2Fuptime.json)](https://stats.ksvblog.site)
+[![ResponseTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fksvblog%2Fstats%2Fmaster%2Fapi%2Fk-s-v-blog%2Fresponse-time.json)](https://stats.ksvblog.site)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ksvblog/ksvblog.github.io)
 [![Hits-of-Code](https://hitsofcode.com/github/ksvblog/ksvblog.github.io?branch=main)](https://hitsofcode.com/github/ksvblog/ksvblog.github.io/view?branch=main)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fksvblog.site&cacheSeconds=3600&link=https%3A%2F%2Fksvblog.site)
