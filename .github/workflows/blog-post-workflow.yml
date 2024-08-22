@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           readme_path: "./profile/README.md"
-          feed_list: "https://ksvblog.site/index.xml"
+          feed_list: "https://hhk.my.id/index.xml"
