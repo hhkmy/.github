@@ -66,7 +66,7 @@ Hello and welcome to my personal website! I'm thrilled to have you here and shar
 - [Office 365 with Developer Account](https://hhk.my.id/posts/office365-with-developer-account/)
 - [Domain &lpar;DNS&rpar; Journey](https://hhk.my.id/posts/domain-dns-journey/)
 - [Download m3u8 with ffmpeg](https://hhk.my.id/posts/download-m3u8-ffmpeg/)
-- [KaTeX - Math](https://hhk.my.id/posts/katex-math/)
+- [Chemical](https://hhk.my.id/posts/chemical/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
