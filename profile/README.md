@@ -62,11 +62,11 @@ Hello and welcome to my personal website! I'm thrilled to have you here and shar
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Key ကို Legacy Trusted.gpg Keyring မှာ သိမ်းထားခြင်း](https://hhk.my.id/posts/key-is-stored-in-legacy-trusted-gpg-keyring/)
+- [Finally My Domain Name - hhk.my.id](https://hhk.my.id/posts/finally-got-my-domain/)
 - [SSH &amp; GPG Keys: Backup, Restore &amp; Secure GitHub Setup](https://hhk.my.id/posts/ssh-gpg-keys-backup-restore-secure-github-setup/)
 - [Microsoft Activation Scripts](https://hhk.my.id/posts/ms-activation-scripts/)
 - [Office 365 with Developer Account](https://hhk.my.id/posts/office365-with-developer-account/)
-- [Domain &lpar;DNS&rpar; Journey](https://hhk.my.id/posts/domain-dns-journey/)
-- [Download m3u8 with ffmpeg](https://hhk.my.id/posts/download-m3u8-ffmpeg/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
