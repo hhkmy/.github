@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VPN Problem I Fixed With OpenVPN](https://hhk.my.id/articles/vpn-problem-i-fixed-with-openvpn/)
 - [Key ကို Legacy Trusted.gpg Keyring မှာ သိမ်းထားခြင်း](https://hhk.my.id/articles/key-is-stored-in-legacy-trusted-gpg-keyring/)
 - [Finally My Domain Name - hhk.my.id](https://hhk.my.id/articles/finally-got-my-domain/)
 - [SSH &amp; GPG Keys: Backup, Restore &amp; Secure GitHub Setup](https://hhk.my.id/articles/ssh-gpg-keys-backup-restore-secure-github-setup/)
 - [Microsoft Activation Scripts](https://hhk.my.id/articles/ms-activation-scripts/)
-- [Office 365 with Developer Account](https://hhk.my.id/articles/office365-with-developer-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
