@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Myanmar Font Rendering Issues on Debian 13 with HarfBuzz and Noto Fonts](https://hhk.my.id/articles/resolving-myanmar-font-overlap-debian-13-harfbuzz/)
 - [Gnome Emoji Keyboard Flags and Extensions](https://hhk.my.id/articles/gnome-emoji-keyboard-flags-and-extensions/)
 - [Debian 12 &lpar;Bookworm&rpar; မှ Debian 13 &lpar;Trixie&rpar; သို့ အဆင့်မြှင့်တင်ခြင်း](https://hhk.my.id/articles/debian-12-to-13-upgrade-guide/)
 - [Debugging Slow File Picker &lpar;GTK Dialog&rpar; Issue on Debian Linux](https://hhk.my.id/articles/debugging-slow-file-picker-debian/)
 - [VPN Problem I Fixed With OpenVPN](https://hhk.my.id/articles/vpn-problem-i-fixed-with-openvpn/)
-- [Key ကို Legacy Trusted.gpg Keyring မှာ သိမ်းထားခြင်း](https://hhk.my.id/articles/key-is-stored-in-legacy-trusted-gpg-keyring/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
