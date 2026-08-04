@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Giscus ကနေ Self-hosted Remark42 ဆီ ပြောင်းခဲ့ပုံ](https://hhk.my.id/articles/migrate-giscus-to-self-hosted-remark42/)
+- [How I Set Up a Personal Email Address Without a Server](https://hhk.my.id/articles/personal-email-address-without-a-server/)
 - [Upgrade Pi After Long Time](https://hhk.my.id/articles/raspberry-pi-5-nvme-upgrade/)
 - [Debian Linux မှာ အလိုအလျောက် Update လုပ်အောင် သတ်မှတ်နည်း](https://hhk.my.id/articles/debian-auto-update-upgrade/)
 - [Debian Server Hardening: From OOM Killer to Production Ready](https://hhk.my.id/articles/debian-13-server-hardening-oom-to-production/)
-- [Resolving Myanmar Font Rendering Issues on Debian 13 with HarfBuzz and Noto Fonts](https://hhk.my.id/articles/resolving-myanmar-font-overlap-debian-13-harfbuzz/)
-- [Gnome Emoji Keyboard Flags and Extensions](https://hhk.my.id/articles/gnome-emoji-keyboard-flags-and-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
