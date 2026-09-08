@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting and Fixing Common Boot and Startup Errors on Debian Linux](https://hhk.my.id/articles/debian-boot-startup-errors-troubleshooting/)
+- [Fixing Bluetooth Boot Errors and Systemd Directory Mode Mismatch on Debian Linux](https://hhk.my.id/articles/fixing-bluetooth-boot-error-systemd-debian/)
 - [Privacy](https://hhk.my.id/privacy/)
 - [Giscus ကနေ Self-hosted Remark42 ဆီ ပြောင်းခဲ့ပုံ](https://hhk.my.id/articles/migrate-giscus-to-self-hosted-remark42/)
 - [How I Set Up a Personal Email Address Without a Server](https://hhk.my.id/articles/personal-email-address-without-a-server/)
-- [Upgrade Pi After Long Time](https://hhk.my.id/articles/raspberry-pi-5-nvme-upgrade/)
-- [Debian Linux မှာ အလိုအလျောက် Update လုပ်အောင် သတ်မှတ်နည်း](https://hhk.my.id/articles/debian-auto-update-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
