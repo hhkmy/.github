@@ -1,20 +1,32 @@
-name: Latest blog post workflow
+name: Update Recent Articles in README
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  repository_dispatch:
+    types: [update-blog-posts]
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
+
+concurrency:
+  group: blog-post-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in ksvblog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1.9.7
         with:
-          readme_path: "./profile/README.md"
-          feed_list: "https://hhk.my.id/index.xml"
+          feed_list: "https://hhk.my.id/articles/index.xml"
+          readme_path: "./profile/README.md, ./README.md"
+          max_post_count: 5
+          enable_keepalive: false
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "docs(readme): update recent articles list"

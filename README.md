@@ -1,8 +1,8 @@
 <a href="https://hhk.my.id">
-    <img src="https://github.com/hhkmy/id/raw/refs/heads/main/assets/ui/logo.svg" alt="K's V/Blog" title="K's V/Blog" align="right" height="50" />
+    <img src="https://github.com/hhkmy/id/raw/refs/heads/main/assets/ui/logo.svg" alt="HHK B/Vlog" title="HHK B/Vlog" align="right" height="50" />
 </a>
 
-# K's V/Blog [![Netlify Status](https://api.netlify.com/api/v1/badges/9bebb371-d351-437c-ab5b-c64a3ef6b71c/deploy-status)](https://app.netlify.com/sites/ksvblog/deploys)
+# HHK B/Vlog [![Netlify Status](https://api.netlify.com/api/v1/badges/9bebb371-d351-437c-ab5b-c64a3ef6b71c/deploy-status)](https://app.netlify.com/projects/hhkmyid/deploys)
 
 <p align="center">
   <a href="https://github.com/hhkmy/id" rel="nofollow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -20,10 +20,10 @@
 ## Website Stats
 
 ![GitHub](https://img.shields.io/github/license/hhkmy/id)
-![Netlify](https://img.shields.io/netlify/9bebb371-d351-437c-ab5b-c64a3ef6b71c)
+[![Netlify](https://img.shields.io/netlify/9bebb371-d351-437c-ab5b-c64a3ef6b71c)](https://app.netlify.com/projects/hhkmyid/deploys)
 [![Website](https://img.shields.io/website?up_message=online&up_color=blue&down_message=offline&down_color=lightgrey&url=https%3A%2F%2Fhhk.my.id)](https://hhk.my.id)
 [![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhhkmy%2Fstats%2Fmaster%2Fapi%2Fhhk%2Fuptime.json)](https://stats.hhk.my.id)
-[![ResponseTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhhkmy%2Fstats%2Fmaster%2Fapi%2Fhhk%2Fresponse-time.json)](https://stats.my.id)
+[![ResponseTime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhhkmy%2Fstats%2Fmaster%2Fapi%2Fhhk%2Fresponse-time.json)](https://stats.hhk.my.id)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hhkmy/id)
 [![Hits-of-Code](https://hitsofcode.com/github/hhkmy/id?branch=main&label=Hits-of-Code)](https://hitsofcode.com/github/hhkmy/id/view?branch=main&label=Hits-of-Code)
 [![W3C Validation](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fhhk.my.id%252F%26out%3Djson&query=%24.messages.length&label=w3c&suffix=%20errors&color=brightgreen&cacheSeconds=300)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhk.my.id%2F)
@@ -40,16 +40,16 @@
 [![Markdown](https://img.shields.io/badge/Markdown-process?style=flat-square&logo=markdown&logoColor=%23000&color=white)](https://www.markdownguide.org)
 [![GoLanguage](https://img.shields.io/badge/GoLanguage-lang?style=flat-square&logo=go&color=white)](https://go.dev/)
 [![JSON](https://img.shields.io/badge/JSON-process?style=flat-square&logo=json&logoColor=%23575757&color=white)](https://www.json.org/json-en.html)
-[![Tailwind CSS](<https://img.shields.io/badge/Tailwind%20CSS-frame?style=flat-square&logo=tailwindcss&logoColor=rgb(56%2C%20189%2C%20248)&color=white>)](https://tailwindcss.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-frame?style=flat-square&logo=tailwindcss&logoColor=rgb(56%2C%20189%2C%20248)&color=white)](https://tailwindcss.com)
 [![CSS3](https://img.shields.io/badge/CSS3-lang?style=flat-square&logo=css&logoColor=%232965f1&color=white)](https://web.dev/learn/css)
-[![JavaScript](<https://img.shields.io/badge/JavaScript-lang?style=flat-square&logo=javascript&logoColor=hsl(50.12deg%2066.13%25%2051.37%25)&color=white>)](https://javascript.info)
-[![HTML5](<https://img.shields.io/badge/HTML5-lang?style=flat-square&logo=html5&logoColor=rgb(228%2C%2077%2C%2038)&color=white>)](https://www.w3schools.com)
-[![Python](<https://img.shields.io/badge/Python-lang?style=flat-square&logo=python&logoColor=hsl(206.91deg%2050.23%25%2041.77%25)&color=white>)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-lang?style=flat-square&logo=javascript&logoColor=hsl(50.12deg%2066.13%25%2051.37%25)&color=white)](https://javascript.info)
+[![HTML5](https://img.shields.io/badge/HTML5-lang?style=flat-square&logo=html5&logoColor=rgb(228%2C%2077%2C%2038)&color=white)](https://www.w3schools.com)
+[![Python](https://img.shields.io/badge/Python-lang?style=flat-square&logo=python&logoColor=hsl(206.91deg%2050.23%25%2041.77%25)&color=white)](https://www.python.org)
 [![Git](https://img.shields.io/badge/Git-action?style=flat-square&logo=git&logoColor=%23f05033&color=white)](https://gitimmersion.com)
 [![npm Packages](https://img.shields.io/badge/npm-process?style=flat-square&logo=npm&logoColor=%23cb3837&color=white)](https://www.npmjs.com)
 [![POSTCSS](https://img.shields.io/badge/postcss-process?style=flat-square&logo=postcss&logoColor=%23dd3735&color=white)](https://postcss.org)
 [![PRETTIER](https://img.shields.io/badge/prettier-process?style=flat-square&logo=prettier&logoColor=%2356b3b4&color=white)](https://prettier.io)
-[![Github Actions](https://img.shields.io/badge/Github%20Actions-action?style=flat-square&logo=githubactions&logoColor=%232088ff&color=white)](https://github.com/ksvblog/ksvblog.github.io/actions)
+[![Github Actions](https://img.shields.io/badge/Github%20Actions-action?style=flat-square&logo=githubactions&logoColor=%232088ff&color=white)](https://github.com/hhkmy/id/actions)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-check?style=flat-square&logo=cloudflare&logoColor=%23F38020&color=white)](https://cloudflare.com)
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-check?style=flat-square&logo=openvpn&logoColor=%23EA7E20&color=white)](https://openvpn.net)
 [![Debian](https://img.shields.io/badge/Debian-dis?style=flat-square&logo=debian&logoColor=%23A81D33&color=white)](https://www.debian.org)
@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Key ကို Legacy Trusted.gpg Keyring မှာ သိမ်းထားခြင်း](https://hhk.my.id/articles/key-is-stored-in-legacy-trusted-gpg-keyring/)
-- [Finally My Domain Name - hhk.my.id](https://hhk.my.id/articles/finally-got-my-domain/)
-- [SSH &amp; GPG Keys: Backup, Restore &amp; Secure GitHub Setup](https://hhk.my.id/articles/ssh-gpg-keys-backup-restore-secure-github-setup/)
-- [Microsoft Activation Scripts](https://hhk.my.id/articles/ms-activation-scripts/)
-- [Office 365 with Developer Account](https://hhk.my.id/articles/office365-with-developer-account/)
+- [Antigravity IDE မှာ Arrow နဲ့ Mermaid ပြင်နည်း](https://hhk.my.id/article/antigravity-ide-arrow-mermaid-fix-guide/)
+- [NPM အသုံးပြုနည်းနှင့် ပြဿနာဖြေရှင်းနည်း လမ်းညွှန်](https://hhk.my.id/article/npm-essentials-and-troubleshooting-guide/)
+- [Telegram Shop Bot နဲ့ Mini App အဆင့်မြှင့်တင်မှု မှတ်တမ်း](https://hhk.my.id/article/telegram-shop-bot-miniapp-premium-emoji-enhancements/)
+- [GitHub README မှာ Blog Post တွေ Auto Update လုပ်နည်း](https://hhk.my.id/article/github-readme-blog-post-workflow-automation/)
+- [Hugo Website မှာ Twemoji ထည့်သွင်း အသုံးပြုနည်း](https://hhk.my.id/article/hugo-twemoji-modern-setup-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
