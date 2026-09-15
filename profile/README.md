@@ -68,11 +68,11 @@ This repository contains the source for that website, including the Hugo configu
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HP ProBook Touchpad အလုပ်မလုပ်ခြင်း &lpar;I2C Controller Timeout -110&rpar; စစ်ဆေးဖြေရှင်းနည်း](https://hhk.my.id/article/fixing-hp-probook-touchpad-i2c-timeout-linux/)
 - [Antigravity IDE မှာ Arrow နဲ့ Mermaid ပြင်နည်း](https://hhk.my.id/article/antigravity-ide-arrow-mermaid-fix-guide/)
 - [NPM အသုံးပြုနည်းနှင့် ပြဿနာဖြေရှင်းနည်း လမ်းညွှန်](https://hhk.my.id/article/npm-essentials-and-troubleshooting-guide/)
 - [Telegram Shop Bot နဲ့ Mini App အဆင့်မြှင့်တင်မှု မှတ်တမ်း](https://hhk.my.id/article/telegram-shop-bot-miniapp-premium-emoji-enhancements/)
 - [GitHub README မှာ Blog Post တွေ Auto Update လုပ်နည်း](https://hhk.my.id/article/github-readme-blog-post-workflow-automation/)
-- [Hugo Website မှာ Twemoji ထည့်သွင်း အသုံးပြုနည်း](https://hhk.my.id/article/hugo-twemoji-modern-setup-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Requirement
